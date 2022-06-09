@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[![sismaili's 42 stats](https://badge.mediaplus.ma/greenbinary/sismaili)](https://github.com/sismaili/badge42)
+[![sismaili's 42 stats](https://badge42.vercel.app/api/v2/cl4780ybp003609l1vop33wkm/stats?cursusId=21&coalitionId=74)](https://github.com/souhail37/badge42)
